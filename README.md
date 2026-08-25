@@ -20,13 +20,13 @@
 
 ---
 
-I am a Computer Science researcher and Software Engineer focused on **autonomous systems, spatial perception, and model-based / learning-based control**.
+I am a Computer Science researcher and Software Engineer focused on **neural interfaces, human sensing, and uncertainty-aware intelligent control**.
 
-My interests span **robot planning, learning-based MPC, long-horizon autonomy, multi-agent coordination, and reliable decision-making under uncertainty**. I am currently strengthening my research profile while preparing for Ph.D. applications in autonomy and robotic systems.
+My interests span **brain--computer interfaces, physiological and wearable sensing, robust estimation, model predictive control, and reliable closed-loop decision-making under uncertainty**. I am currently working on EEG-based BCI and robust output-feedback control while preparing for Ph.D. applications.
 
-- 📍 Based in India
-- 🤝 Open to remote research collaborations
-- 📫 Reach me at: [satyam.aw@yahoo.com](mailto:satyam.aw@yahoo.com)
+* 📍 Based in India
+* 🤝 Open to remote research collaborations
+* 📫 Reach me at: [satyam.aw@yahoo.com](mailto:satyam.aw@yahoo.com)
 
 ---
 
