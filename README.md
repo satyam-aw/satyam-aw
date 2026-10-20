@@ -1,49 +1,55 @@
-
-<h3 align="center">👋 Hi there, I'm Satyam Awasthi</h3>
+<h3 align="center">👋 Hi, I'm Satyam Awasthi</h3>
 
 <p align="center">
   <a href="https://satyam-aw.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/satyam-awasthi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@satyam-aw">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:satyam.aw@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=satyam-aw&style=flat-square&color=blue" />
-
 </p>
 
 ---
 
-I am a Computer Science researcher and Software Engineer focused on **neural interfaces, human sensing, and uncertainty-aware intelligent control**.
+My research interests center on **reliable closed-loop brain–computer interfaces**—from physiological sensing and intended-action decoding to uncertainty-aware control, feedback, and adaptation.
 
-My interests span **brain--computer interfaces, physiological and wearable sensing, robust estimation, model predictive control, and reliable closed-loop decision-making under uncertainty**. I am currently working on EEG-based BCI and robust output-feedback control while preparing for Ph.D. applications.
+My current work spans **EEG decoding, sensory feedback for bidirectional neural interfaces, and robust estimation and control**. I am interested in the full pipeline: acquiring signals, interpreting them, executing actions, and using feedback to improve reliability.
 
-* 📍 Based in India
-* 🤝 Open to remote research collaborations
-* 📫 Reach me at: [satyam.aw@yahoo.com](mailto:satyam.aw@yahoo.com)
+**How much can noisy physiological signals reveal about intended actions—and how should a system act when those inferences are uncertain?**
+
+I earned my M.S. in Computer Science at **UC Santa Barbara**, where I studied eye tracking and calibration during mixed-reality locomotion in the Four Eyes Lab. Previously, I studied Electrical Engineering at **IIT Kharagpur** and worked in software engineering at Intuit, Yahoo, and Samsung.
+
+- 🎓 Preparing for Ph.D. applications
+- 🤝 Open to research collaborations
+- 📍 Based in India
+
+### Selected research
+
+- **[SSVEP-Based EEG Navigation](https://satyam-aw.github.io/projects/ssvep_navigation/)** — Custom-built EEG acquisition, live CCA decoding, and decision-making for navigation.
+- **[Sensory Feedback for Bidirectional Neural Interfaces](https://satyam-aw.github.io/projects/tens-eeg-waveform-decoding/)** — Investigating EEG responses to peripheral stimulation and their implications for sensory feedback.
+- **[Robust Output-Feedback MPC](https://satyam-aw.github.io/projects/state-dependent-robust-output-fb-mpc/)** — Estimation and control with state-dependent uncertainty.
+- **[EEG-to-Kinematics Decoding](https://satyam-aw.github.io/projects/eeg-kinematics-decoding/)** — Reconstructing wrist movements from EEG across recording runs.
+- **[EyeTTS](https://satyam-aw.github.io/projects/eyetts_for_mobile_mr/)** — Evaluating and calibrating eye tracking during mixed-reality locomotion.
+
+### Tools I work with
+
+**Programming:** Python · C++ · MATLAB · Java · Kotlin  
+**Learning & signal processing:** PyTorch · NumPy · SciPy · OpenCV  
+**Control, robotics & interfaces:** ROS/ROS2 · Gazebo · Unity · OpenGL
 
 ---
 
-### 💻 Tech Stack
+More about my research, publications, and projects: **[satyam-aw.github.io](https://satyam-aw.github.io)**
+<details>
+<summary>📊 GitHub Stats</summary>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
+<!-- Keep your existing stats cards here. -->
 <table align="center">
   <tr>
     <td valign="top">
@@ -52,8 +58,8 @@ My interests span **brain--computer interfaces, physiological and wearable sensi
     <td valign="top">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=satyam-aw&theme=default&hide_border=false&layout=compact" />
     </td>
+    
   </tr>
 </table>
-
-
+</details>
 
